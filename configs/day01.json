@@ -1,0 +1,6 @@
+{
+    "seed": 1729,
+    "dataset_version": "day01-toy-v1",
+    "output_dir": "artifacts/day01/run_default",
+    "run_name": "run_default"
+}

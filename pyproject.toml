@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+# TODO 01: Replace the four blanks with valid metadata. Require Python >=3.11.
+name = "frontier-research-engineering-sprint"
+version = "0.1.0"
+description = "A simple sprint project for frontier research engineering"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+pythonpath = ["src"]
