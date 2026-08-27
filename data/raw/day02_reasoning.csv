@@ -1,0 +1,17 @@
+example_id,group_id,prompt,target
+r001,g01,Compute 1 + 1,2
+r002,g01,What is one plus one?,2
+r003,g02,Compute 2 + 3,5
+r004,g03,Compute 3 multiplied by 4,12
+r005,g03,What is three times four?,12
+r006,g04,Compute 15 - 7,8
+r007,g05,Compute 18 divided by 3,6
+r008,g06,Is 11 an even number?,no
+r009,g07,What comes after 19?,20
+r010,g08,Compute 7 squared,49
+r011,g08,What is seven to the power of two?,49
+r012,g09,Compute 5 + 8,13
+r013,g10,Compute 20 - 9,11
+r014,g11,Is 17 greater than 12?,yes
+r015,g12,Compute 6 multiplied by 8,48
+r016,g12,What is six times eight?,48

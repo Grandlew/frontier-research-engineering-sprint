@@ -31,3 +31,5 @@ Thumbs.db
 
 # Generated Day 1 executions
 artifacts/day01/run_*/
+# Generated Day 2 executions
+artifacts/day02/run_*/

@@ -1,0 +1,10 @@
+{
+    "dataset_name": "day02-reasoning-fixture",
+    "schema_version": "1.0.0",
+    "split_seed": 1729,
+    "train_fraction": 0.70,
+    "validation_fraction": 0.15,
+    "raw_csv": "data/raw/day02_reasoning.csv",
+    "output_dir": "artifacts/day02/run_default",
+    "run_name": "run_default"
+}
